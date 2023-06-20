@@ -3,7 +3,7 @@ Deploy & Run
 
 ![](images/a-run-icon.png) The Deploy & Run module is for sending transactions to the current **Environment**.
 
-For deploying, you need to have a contract compiled.  To check that there is a compiled contract, find the <b>CONTRACT</b> select box (which is under the VALUE input field), you can use this module. 
+For deploying, you need to have a contract compiled.  To check that there is a compiled contract, find the <b>MTV</b> select box (which is under the VALUE input field), you can use this module. 
 
 ![](images/a-contract.png)
 
